@@ -11,6 +11,7 @@ Resources for Ballyhoo broken down by category.
 # Conventions #
 * [Guides](https://github.com/thoughtbot/guides) by [Thoughtbot](https://learn.thoughtbot.com/)
 * [Idiomatic](https://github.com/rwldrn/idiomatic.js)
+* [Code Reviews] (https://github.com/thoughtbot/guides/tree/master/code-review)
 
 ## CoffeeScript ##
 * [CoffeeScript Cookbook](https://github.com/coffeescript-cookbook/coffeescript-cookbook.github.com)
