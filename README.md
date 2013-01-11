@@ -6,7 +6,6 @@ Resources for Ballyhoo broken down by category.
 # Training #
 
 * [Trail Map](https://github.com/thoughtbot/trail-map) by [Thoughbot](https://learn.thoughtbot.com/)
-* 
 
 
 # Conventions #
